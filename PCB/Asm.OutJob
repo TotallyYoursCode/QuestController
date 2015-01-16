@@ -49,7 +49,7 @@ OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.79|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=27000000|ViewY=21000000|LookAtX=38100000|LookAtY=27800000|LookAtZ=-1000|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.16666666666667E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig= 
+Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=27000000|ViewY=21000000|LookAtX=38100000|LookAtY=27800000|LookAtZ=-1000|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.16666666666667E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
 OutputType3=PCB Print
 OutputName3=PCB Prints Top
 OutputDocumentPath3=
@@ -428,11 +428,11 @@ OutputEnabled17_OutputMedium2=10
 OutputEnabled17_OutputMedium3=0
 OutputEnabled17_OutputMedium4=0
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration17_Name1=Filter
 Configuration17_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration17_Name2=General
-Configuration17_Item2=OpenExported=False|AddToProject=False|ForceFit=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=BOM Default Template 95.xlt|BatchMode=6|FormWidth=912|FormHeight=644|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration17_Item2=OpenExported=False|AddToProject=False|ForceFit=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=BOM Purchase Rezonit.xls|BatchMode=6|FormWidth=912|FormHeight=644|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration17_Name3=GroupOrder
 Configuration17_Item3=Designator=True
 Configuration17_Name4=OutputConfigurationParameter1
@@ -534,7 +534,7 @@ OutputEnabled25_OutputMedium4=0
 OutputDefault25=0
 PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.79|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration25_Name1=OutputConfigurationParameter1
-Configuration25_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=27000000|ViewY=21000000|LookAtX=38100000|LookAtY=27800000|LookAtZ=-1000|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.16666666666667E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig= 
+Configuration25_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=27000000|ViewY=21000000|LookAtX=38100000|LookAtY=27800000|LookAtZ=-1000|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.16666666666667E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig=
 OutputType26=PCB Print
 OutputName26=PCB Prints Bottom
 OutputDocumentPath26=
